@@ -52,6 +52,10 @@ header nav ul li a {
     font-weight: bold;
 }
 
+header nav ul li a:hover{
+    background-color: #003BFF;
+}
+
 /* Hero Section */
 #hero {
     background: url('hero.jpg') no-repeat center center/cover;
